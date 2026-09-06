@@ -29,6 +29,6 @@ Kotlin · Android SDK · MVVM · [Retrofit/Volley] · [LiveData/StateFlow] · Go
 3. [Any API key setup steps, if the Google Books API requires one]
 4. Run on an emulator or physical device (min SDK [X])
 
-## Screenshots
+## video
 
-[Add 2-3 screenshots here — this matters more than any other single fix]
+https://cloud.mail.ru/public/d5Wm/7GkS7zxxp
